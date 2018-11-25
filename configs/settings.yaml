@@ -1,0 +1,9 @@
+- dbConfig:
+    - dbName: tb_holidays
+    - user: postgres
+    - password: root
+    - sslMode: disable
+    - port: 5432
+
+
+
